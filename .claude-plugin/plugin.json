@@ -1,0 +1,8 @@
+{
+  "name": "tcfd-reporting",
+  "version": "0.1.0",
+  "description": "TCFD climate-related financial disclosure — governance, strategy, risk management, and metrics/targets across physical and transition risk scenarios for real estate portfolios.",
+  "author": { "name": "Soapbox", "url": "https://soapbox.build" },
+  "homepage": "https://github.com/soapboxbuild/tcfd-reporting-skill",
+  "license": "Apache-2.0"
+}
