@@ -5,6 +5,26 @@ description: Prepare TCFD (Task Force on Climate-related Financial Disclosures) 
 
 # TCFD Climate Disclosure for Real Estate
 
+## Framework Status — Read First
+
+**TCFD was superseded by ISSB IFRS S2** (effective 2024 for most jurisdictions).
+
+ISSB S2 is **mandatory** in:
+- Australia: from FY2025 (AASB)
+- UK: transitioning from TCFD mandate
+- Canada: CSA guidance aligned with ISSB S2
+- Singapore: SGX mandatory from FY2023 (large caps)
+- Japan: FSA mandatory from FY2023 (prime market)
+- EU: CSRD/ESRS E1 (parallel framework, separate structure)
+
+**For entities in mandatory-ISSB jurisdictions:** Structure the disclosure under ISSB S2. Note TCFD as the conceptual predecessor. ISSB S2 requires QUANTIFIED financial impact estimates — qualitative scenario descriptions alone are non-compliant.
+
+**Minimum scenario set:**
+- One below 2°C: IPCC SSP1-2.6 or IEA NZE 2050
+- One above 3°C: IPCC SSP5-8.5 or IEA STEPS (Current Policies)
+
+**For voluntary disclosures:** TCFD four-pillar structure (Governance, Strategy, Risk Management, Metrics & Targets) remains the appropriate framework.
+
 ## TCFD Framework: Four Pillars
 
 ### 1. Governance
@@ -54,6 +74,8 @@ description: Prepare TCFD (Task Force on Climate-related Financial Disclosures) 
 ### Risk Scoring Approach
 For each asset: score 1-5 on each hazard × exposure × sensitivity × adaptive capacity
 Aggregate to portfolio-level heatmap
+
+**Physical risk data:** Invoke Continuuiti or Moody's RMS MCP for property-level physical risk scores if available. Report current score, 2030 projection, 2050 projection under both 2°C and 4°C warming.
 
 ## Transition Risk Assessment
 
